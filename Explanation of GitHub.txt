@@ -1,0 +1,24 @@
+Explaination to GitHub codes
+
+
+
+1. go to folder with cd
+ - dir will give you all the files in the folder
+
+For existing repositories on your PC:
+Upload:
+1. git status --> will give you the difference between online repository and your local folders
+2. git add \name of file 
+	- optional git add . or git add -A adds all files
+3. git commit 
+	- additionally -m "Message", adds message to the upload
+4. git push --> uploads to online repository
+
+Download:
+1. git pull
+
+
+For non-existing repositories on your PC:
+2. git clone \link to github
+
+If you do not know how to get out of something, press escape, type ';wq'
